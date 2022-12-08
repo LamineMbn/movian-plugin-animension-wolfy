@@ -1,0 +1,15 @@
+{
+    "description": "<p>Animension, your one stop source for all your favorite Animes. SAFE!",
+    "author": "Wolfy",
+    "homepage": "https://github.com/LamineMbn/movian-plugin-animension-wolfy",
+    "title": "Animension",
+    "synopsis": "Animension - Stream Anime",
+    "version": "0.0.1",
+    "file": "index.js",
+    "showtimeVersion": "5.0.0",
+    "type": "ecmascript",
+    "id": "animension",
+    "icon": "logo.png",
+    "category": "video",
+    "apiversion": 2
+}
